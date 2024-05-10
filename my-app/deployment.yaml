@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: kcr.khalti.com.np/test/nginx:2
+          image: kcr.khalti.com.np/test/nginx:3
           ports:
             - containerPort: 80
